@@ -17,7 +17,7 @@ This repository contains the notebooks for ShAI's Natural Language Processing co
 1. Create a virtual envrionment
 
    ```bash
-	python -m venv venv
+	python3 -m venv venv
    ```
 
 2. Activate the environment and install the required packages
